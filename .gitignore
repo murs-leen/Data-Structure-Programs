@@ -1,0 +1,30 @@
+# Ignore everything
+*
+
+# Allow all folders
+!*/
+
+# Allow C++ source files
+!*.cpp
+!*.h
+
+!.gitignore
+# Ignore build / IDE files (safety)
+.vscode/
+.vs/
+Debug/
+Release/
+build/
+
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+*.idb
+*.log
+*.tlog
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
