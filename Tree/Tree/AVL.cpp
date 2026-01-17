@@ -238,4 +238,5 @@ int main() {
 	cout << "Preorder(After deletion): ";
 	preorder(root); 
 	cout << endl;
+	return 0;
 }
